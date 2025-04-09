@@ -54,7 +54,7 @@ VISION = 100
 #Обычный режим
 Basic_Mode = False
 #Большие колонии
-Big_Mode = True
+Big_Mode = False
 
 if Basic_Mode == True:
     CELL_COLISION = CELL_SIZE*4
